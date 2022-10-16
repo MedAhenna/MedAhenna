@@ -46,4 +46,4 @@ I'm an undergraduate software engineering student at ENSA Agadir seeking interns
 
 <a href="http://www.github.com/MedAhenna"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MedAhenna&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/MedAhenna"><img src="https://activity-graph.herokuapp.com/graph?username=MedAhenna&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!--<a href="http://www.github.com/MedAhenna"><img src="https://activity-graph.herokuapp.com/graph?username=MedAhenna&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>-->
