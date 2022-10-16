@@ -6,11 +6,15 @@ software engineer student
 
 I'm an undergraduate software engineering student at ENSA Agadir seeking intership opportunity
 
-*   🌍  I'm based in Agadir, Morocco
-*   ✉️  You can contact me at [ahenna.12@gmail.com](mailto:ahenna.12@gmail.com)
-*   🚀  I'm currently working on [University Lessons Platform](http://lessons-platform-ahenna.netlify.app/)
-*   🧠  I'm learning Vue and Electron
-*   🤝  I'm open to collaborating on Projects### Skills 
+* 🌍  I'm based in Agadir, Morocco
+* ✉️  You can contact me at [ahenna.12@gmail.com](mailto:ahenna.12@gmail.com)
+* 🚀  I'm currently working on [University Lessons Platform](http://lessons-platform-ahenna.netlify.app/)
+* 🧠  I'm learning Vue and Electron
+* 🤝  I'm open to collaborating on Projects
+
+### Skills
+
+
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -34,13 +38,16 @@ I'm an undergraduate software engineering student at ENSA Agadir seeking intersh
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/MedAhenna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/ahennamed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/MedAhenna"><img src="https://github-readme-stats.vercel.app/api?username=MedAhenna&show_icons=true&hide=prs,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MedAhenna's GitHub stats" /></a><a href="https://github.com/MedAhenna" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedAhenna&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/MedAhenna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ahennamed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/MedAhenna"><img src="https://github-readme-stats.vercel.app/api?username=MedAhenna&show_icons=true&hide=prs,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MedAhenna's GitHub stats" /></a>
+
+<a href="https://github.com/MedAhenna" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedAhenna&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
