@@ -4,12 +4,9 @@ Hi 👋 My name is Mohamed Ahenna
 software engineer student
 -------------------------
 
-I'm an undergraduate software engineering student at ENSA Agadir seeking internship opportunity
 
 * 🌍  I'm based in Agadir, Morocco
 * ✉️  You can contact me at [ahenna.12@gmail.com](mailto:ahenna.12@gmail.com)
-* 🚀  I'm currently working on [University Lessons Platform](http://lessons-platform-ahenna.netlify.app/)
-* 🧠  I'm learning Vue and Electron
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
